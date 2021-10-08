@@ -1,0 +1,15 @@
+1;Simples;1 Cama, 1 banheiro, mesa, cadeira, guarda-roupa.
+2;Simples;1 Cama, 1 banheiro, mesa, cadeira, guarda-roupa.;
+3;Simples;1 Cama, 1 banheiro, mesa, cadeira, guarda-roupa.;
+4;Simples;1 Cama, 1 banheiro, mesa, cadeira, guarda-roupa.;
+5;Duplo;2 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+6;Duplo;2 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+7;Duplo;2 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+8;Duplo;2 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+9;Duplo;2 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+10;Duplo;2 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+11;Triplo;3 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+12;Triplo;3 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+13;Triplo;3 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+14;Triplo;3 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;
+15;Triplo;3 Camas, 2 banheiros, mesa, cadeiras, guarda-roupa.;

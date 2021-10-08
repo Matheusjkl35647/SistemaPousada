@@ -1,0 +1,4 @@
+Número de quarto: 1;
+Tipo de quarto: Simples;
+Descrição do quarto: 1 Cama, 1 banheiro, geladeira, mesa, cadeira, tv e Guarda-roupa;
+
